@@ -8,7 +8,7 @@
 
 **Цели:** Понять факторы, влияющие на удовлетворенность клиентов, и предоставить практическую информацию для улучшения обслуживания.
 
-![](Main dashboard.png)
+![](Tableau British Airway Reviews Dashboard/Main dashboard.png)
 
 
 
