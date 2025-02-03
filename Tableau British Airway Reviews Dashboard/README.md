@@ -1,5 +1,7 @@
 # Проект : British Airways Customer Review
 
+!(Main_dashboard.png)
+
 ## Обзор проекта
 
 В рамках этого проекта анализируются отзывы клиентов British Airways (BA), чтобы оценить удовлетворенность пассажиров по различным факторам, включая качество обслуживания, комфорт, питание и развлечения. Проект сочетает анализ текста отзыва с оценкой по числовым показателям, чтобы на основе данных получить представление об опыте обслуживания клиентов BA.
@@ -7,10 +9,6 @@
 **Источники данных:** [ba_reviews.csv](https://github.com/Nina9876/DATA-ANALYST-PORTFOLIO/blob/main/Tableau%20British%20Airway%20Reviews%20Dashboard/ba_reviews.csv), [Countries.csv](https://github.com/Nina9876/DATA-ANALYST-PORTFOLIO/blob/main/Tableau%20British%20Airway%20Reviews%20Dashboard/Countries.csv).
 
 **Цели:** Понять факторы, влияющие на удовлетворенность клиентов, и предоставить практическую информацию для улучшения обслуживания.
-
-![ss](Main_dashboard.png)
-
-
 
 ## Описание данных
 
