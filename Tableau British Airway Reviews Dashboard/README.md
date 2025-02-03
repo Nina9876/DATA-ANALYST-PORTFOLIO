@@ -1,6 +1,6 @@
 # Проект : British Airways Customer Review
 
-!(Main_dashboard.png)
+![](Main_dashboard.png)
 
 ## Обзор проекта
 
