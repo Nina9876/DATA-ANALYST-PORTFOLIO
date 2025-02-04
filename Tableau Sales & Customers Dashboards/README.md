@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b5a3bf7b-7375-41d7-ae75-31476caa4640)# Sales and Customers Dashboards
+# Sales and Customers Dashboards
 
 ## Обзор проекта
 
