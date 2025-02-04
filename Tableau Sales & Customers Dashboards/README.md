@@ -38,9 +38,10 @@ Customer Trends : Отображает данные по каждому ключ
 
 ![](kpi_customer.png)
 
-№№ Customer Distribution by Number of Orders
+## Customer Distribution by Number of Orders
 
 Показывает данные о распределение клиентов в зависимости от количества заказов. Это позволяет получить представление о поведении клиентов, их лояльности и вовлеченности.
+
 Мы можем наблюдать, что большинство людей делают 2-4 заказа.
 
 ![](customer_distribution.png)
